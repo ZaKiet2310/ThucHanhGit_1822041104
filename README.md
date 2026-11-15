@@ -1,7 +1,7 @@
 ﻿# Thông tin sinh viên
 
 - Họ và tên: [Điền họ và tên]
-- MSSV: 182204104
+- MSSV: 1822041104
 - Lớp: [Điền lớp]
 
 ## Bài thực hành Git
