@@ -1,8 +1,8 @@
 ﻿# Thông tin sinh viên
 
-- Họ và tên: [Điền họ và tên]
+- Họ và tên: Lâm Gia Kiệt
 - MSSV: 1822041104
-- Lớp: [Điền lớp]
+- Lớp: 22DTH5
 
 ## Bài thực hành Git
 
